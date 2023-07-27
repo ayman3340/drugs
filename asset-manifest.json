@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drugs/static/css/main.40e37676.css",
+    "main.js": "/drugs/static/js/main.c9f6fd5c.js",
+    "static/js/787.a771e178.chunk.js": "/drugs/static/js/787.a771e178.chunk.js",
+    "static/media/book2.png": "/drugs/static/media/book2.35f6c566ac9ca98940b0.png",
+    "static/media/book1.png": "/drugs/static/media/book1.67f07edb4b37cb00189b.png",
+    "static/media/hand.png": "/drugs/static/media/hand.3717c7a63d2509fbaa6c.png",
+    "static/media/hashsh.png": "/drugs/static/media/hashsh.5da34b8023c24052ecac.png",
+    "static/media/Crstal.png": "/drugs/static/media/Crstal.8138b81652de8e5e9a43.png",
+    "static/media/Helvetica Neue LT Arabic.ttf": "/drugs/static/media/Helvetica Neue LT Arabic.5c60dd76adb9c7757170.ttf",
+    "static/media/firstImg.png": "/drugs/static/media/firstImg.88285bb75e5287074356.png",
+    "static/media/Captiogon.png": "/drugs/static/media/Captiogon.190608ea9dfde0438be2.png",
+    "static/media/drugs.png": "/drugs/static/media/drugs.0417464dd7b21fd09013.png",
+    "static/media/book3.png": "/drugs/static/media/book3.cb6ddcf812809ae36701.png",
+    "static/media/armer.png": "/drugs/static/media/armer.d7705929f84599c56745.png",
+    "static/media/doctor.png": "/drugs/static/media/doctor.d5c65c304d3a17486d4b.png",
+    "static/media/websiteIcon.png": "/drugs/static/media/websiteIcon.bada3505990eea2a2e9a.png",
+    "static/media/react.png": "/drugs/static/media/react.260140ff6e25c6f25536.png",
+    "index.html": "/drugs/index.html",
+    "main.40e37676.css.map": "/drugs/static/css/main.40e37676.css.map",
+    "main.c9f6fd5c.js.map": "/drugs/static/js/main.c9f6fd5c.js.map",
+    "787.a771e178.chunk.js.map": "/drugs/static/js/787.a771e178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e37676.css",
+    "static/js/main.c9f6fd5c.js"
+  ]
+}
