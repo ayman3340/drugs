@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: #a88672;
+
+
+  font-family: "Helvetica Neue LT Arabic";
+  color: rgb(79, 60, 46);
+  direction: rtl;
+}
+
+.logo {
+  width: 8rem;
+}
+.video {
+  border-radius: 5%;
+}
+.flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.responsive-iframe {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 60%;
+  height: 100%;
+}
+
+div > iframe {
+  margin: 6rem;
+}
+
+/* Use a media query to add a breakpoint at 800px: */
+@media screen and (max-width: 800px) {
+  #ThirdSection {
+    /* The width is 100%, when the viewport is 800px or smaller */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+  .firstImg {
+    display: none;
+  }
+  .ThirdSectionC {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  #SecoundSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+  .SecoundSectionC {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+  .logo {
+    display: none;
+  }
+}
