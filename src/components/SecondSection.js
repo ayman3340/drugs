@@ -10,15 +10,15 @@ export default function SecoundSection() {
       <div className="row justify-content-md-center m-5 SecoundSectionC">
         <div className="col-lg-5 ">
           <h2 className="my-5 text-end ">انواع المخدرات</h2>
-          <h2 className=" text-end" style={{ fontSize: "1.5rem" }}>
-          مخدرات منتشار في المملكة العربية السعودية
+          <h2 className=" text-end my-4" style={{ fontSize: "1.5rem" }}>
+          المخدرات الأكثر انتشارًا في المملكة العربية السعودية
           </h2>
         </div>
-        <div className="col-lg-3 ">
+        <div className="col-lg-3 imgboy">
           <img
             src={drugs}
             alt="firstImg"
-            className="img-fluid rounded float-start"
+            className="img-fluid rounded float-start "
           />
         </div>
 
