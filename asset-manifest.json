@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/drugs/static/css/main.afde6164.css",
-    "main.js": "/drugs/static/js/main.57600b51.js",
+    "main.js": "/drugs/static/js/main.ebbdeb94.js",
     "static/js/787.a771e178.chunk.js": "/drugs/static/js/787.a771e178.chunk.js",
     "static/media/book2.png": "/drugs/static/media/book2.35f6c566ac9ca98940b0.png",
     "static/media/book1.png": "/drugs/static/media/book1.67f07edb4b37cb00189b.png",
@@ -19,11 +19,11 @@
     "static/media/react.png": "/drugs/static/media/react.260140ff6e25c6f25536.png",
     "index.html": "/drugs/index.html",
     "main.afde6164.css.map": "/drugs/static/css/main.afde6164.css.map",
-    "main.57600b51.js.map": "/drugs/static/js/main.57600b51.js.map",
+    "main.ebbdeb94.js.map": "/drugs/static/js/main.ebbdeb94.js.map",
     "787.a771e178.chunk.js.map": "/drugs/static/js/787.a771e178.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afde6164.css",
-    "static/js/main.57600b51.js"
+    "static/js/main.ebbdeb94.js"
   ]
 }
